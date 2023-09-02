@@ -17,10 +17,10 @@ redirect_from:
 
 个人技能
 ======
-熟悉java基础，能熟练使用java、c++等语言
-基本掌握spring、springmvc、springboot等框架的使用
-熟悉javaweb的开发流程
-熟悉hadoop、hbase、hive等技术应用
+熟悉java基础，能熟练使用java、c++等语言  
+基本掌握spring、springmvc、springboot等框架的使用  
+熟悉javaweb的开发流程  
+熟悉hadoop、hbase、hive等技术应用  
 熟悉常用的数据结构预算法。
 
 学习情况
