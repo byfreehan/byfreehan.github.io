@@ -21,7 +21,8 @@ redirect_from:
 基本掌握spring、springmvc、springboot等框架的使用  
 熟悉javaweb的开发流程  
 熟悉hadoop、hbase、hive等技术应用  
-熟悉常用的数据结构预算法。
+熟悉常用的数据结构预算法。  
+[博客园](https://www.cnblogs.com/-0112)
 
 学习情况
 ======
