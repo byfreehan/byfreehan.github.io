@@ -1,6 +1,6 @@
-323232---
+---
 permalink: /
-title: "个人简历"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
